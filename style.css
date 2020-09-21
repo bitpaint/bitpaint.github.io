@@ -38,7 +38,7 @@
 }
 
 #keyart-2 {
-  background-image: url("/parallax2.png");
+  background-image: url("https://raw.githubusercontent.com/bitpaint/bitpaint.github.io/master/parallax2.png");
 }
 
 #keyart-3 {
@@ -81,7 +81,7 @@
   }
 
   #keyart-2 {
-    background-image: url("http://www.firewatchgame.com/images/parallax/parallax2@2x.png");
+    background-image: url("https://raw.githubusercontent.com/bitpaint/bitpaint.github.io/master/parallax2.png@2x.png");
   }
 
   #keyart-3 {
