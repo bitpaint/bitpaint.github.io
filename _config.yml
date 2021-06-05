@@ -8,5 +8,5 @@ nav_order: 0
 aux_links:
   "Follow me on Twitter":
     - "//twitter.com/BITPAINTCLUB"
-aux_links_new_tab: false
+aux_links_new_tab: true
 ---
