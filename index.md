@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bitpaint
-nav_order: 1
+title: home
+nav_order: 0
 ---
 
 <span class="fs-10">Hey 👋</span><br>
