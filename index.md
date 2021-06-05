@@ -8,9 +8,9 @@ nav_order: 0
 <span class="fs-8">Hey 👋</span><br>
 
 
-<span class="fs-4">i'm bitpaint, welcome to my website!</span><br>
+<b><span class="fs-4">I am bitpaint, welcome to my website!</span><br></b>
 <br>
-I discovered bitcoin in 2017, it blew my mind in 2018.<br>
+I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
 Since i'm not a dev, I've created Bitcoin Artistic content: <br>
 -  VR worlds
 -  Street Art
