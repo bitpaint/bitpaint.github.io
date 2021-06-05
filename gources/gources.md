@@ -8,8 +8,8 @@ has_children: false
 <br>
 ![image](/img/gource.gif "image")<br>
 **What is "gource" ?**<br>
-Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre. <br>
-Directories appear as branches with files as leaves. <br>
+Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
+Directories appear as branches with files as leaves.
 Developers can be seen working on the tree at the times they contributed to the project.<br>
 [gource.io](https://gource.io/){: .btn .fs-4 .mb-3 .mb-md-0 }  <br>
 
