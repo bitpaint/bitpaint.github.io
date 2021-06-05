@@ -15,4 +15,4 @@ Since i'm not a dev, I've created Bitcoin Artistic content ranging from VR world
 <span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br>
 <br>
 
-[Read it now](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Read it now](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-5 .mb-4 .mb-md-0 } 
