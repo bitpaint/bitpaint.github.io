@@ -3,4 +3,5 @@ remote_theme: pmarsceill/just-the-docs
 layout: default
 title: bitpaint
 nav_order: 0
+color_scheme: dark
 ---
