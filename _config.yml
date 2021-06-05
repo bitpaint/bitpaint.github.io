@@ -1,7 +1,19 @@
 remote_theme: pmarsceill/just-the-docs
+
+url: "https://bitpaint.github.io" # the base hostname & protocol for your site
+
+color_scheme: dark
 ---
 layout: default
 title: bitpaint
 nav_order: 0
-color_scheme: dark
 ---
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "test":
+    - "//github.com/pmarsceill/just-the-docs"
+
+
+
