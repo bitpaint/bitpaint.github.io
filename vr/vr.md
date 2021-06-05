@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Virtual Reality
+title: 🤿 Virtual Reality
 nav_order: 3
 has_children: false
 ---
-
-
-VR  
-{: .btn }
-
-00
+<span class="fs-8">🤿 Virtual Reality</span><br>

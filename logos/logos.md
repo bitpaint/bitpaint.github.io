@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Bitcoin logos
+title: Various design
 nav_order: 5
 has_children: false
 ---
 
-Logo
-{: .btn }
+<span class="fs-8">Various design</span><br>
 
-00
+![image](/img/gource.gif "image")

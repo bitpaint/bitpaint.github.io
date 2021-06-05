@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Gources
+title: 🎬 Gources
 nav_order: 4
 has_children: false
 ---
-
-
-Gources
-{: .btn }
-
+<span class="fs-8">🎬 Gources</span><br>
 
 ![image](/img/gource.gif "image")
 
