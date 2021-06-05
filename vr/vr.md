@@ -4,12 +4,13 @@ title: 🤿 Virtual Reality
 nav_order: 2
 has_children: false
 ---
-<span class="fs-8">🤿 Virtual Reality</span><br>
+<span class="fs-8">🤿 Virtual Reality</span><br><br>
+**VRChat** is free, download it from Steam!
 
 **<b><span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br></b>**
 <br>
 
-[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
+[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br>
 
 
 
