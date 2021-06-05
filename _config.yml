@@ -5,7 +5,5 @@ title: bitpaint
 description: welcome to my website
 nav_order: 0
 ---
-aux_links:
-  "Twitter":
-    - "//twitter.com/BITPAINTCLUB"
-aux_links_new_tab: true
+
+footer_content: "Twitter: <a href=\"https://twitter.com/BITPAINTclub\">@bitpaintclub</a>"
