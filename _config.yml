@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+---
+layout: default
+title: bitpaint
+description: welcome to my website
+nav_order: 0
+---
