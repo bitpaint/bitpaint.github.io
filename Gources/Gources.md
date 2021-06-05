@@ -10,5 +10,5 @@ Gources
 {: .btn }
 
 
-![image](https://raw.githubusercontent.com/bitpaint/LNRelay-proposal/gh-pages/img/gource.gif "image")
+![image](/img/gource.gif "image")
 
