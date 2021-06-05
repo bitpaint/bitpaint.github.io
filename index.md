@@ -3,7 +3,7 @@ layout: default
 title: 🏠 Home
 nav_order: 0
 ---
-[Twitter🔹](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 }  [Instagram📷](https://www.instagram.com/bitpaint.club){: .btn .fs-4 .mb-3 .mb-md-0 }    [Tip🍺](https://btcpay177475.lndyn.com/){: .btn .fs-4 .mb-3 .mb-md-0 }  
+[Twitter🔹](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 }  [Instagram📷](https://www.instagram.com/bitpaint.club){: .btn .fs-4 .mb-3 .mb-md-0 }    [Tip🍺](https://btcpay177475.lndyn.com/){: .btn .fs-4 .mb-3 .mb-md-0 } -  [21Lessons🐇](https://21lessons.com/preface){: .btn .fs-4 .mb-3 .mb-md-0 }  
 <br>
 <span class="fs-8">Hey 👋</span><br>
 
@@ -23,3 +23,5 @@ Since i'm not a dev, I've created Bitcoin Artistic content: <br>
 <br>
 
 [Read it now](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
+
+
