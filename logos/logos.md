@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Various design
+title: 💡 More
 nav_order: 5
 has_children: false
 ---
