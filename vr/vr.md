@@ -1,26 +1,32 @@
 ---
-layout: page
-title: test
-description: A listing of all the course staff members.
+layout: default
+title: 🤿 Virtual Reality
+nav_order: 2
+has_children: false
 ---
+<span class="fs-8">🤿 Virtual Reality</span><br><br>
+**VRChat** is free, download it from Steam!
 
-# Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
-## Instructors
+**<b><span class="fs-4">I created a VR version on 21Lessons & others Bitcoin places in VRChat...</span><br></b>**
+<br>
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+ <img src="/img/cafe.png" height="auto" width="200" style="border-radius:20%"><br>
+[☕ Bitcoin Café](https://vrchat.com/home/world/wrld_73ae10bd-7b61-47d0-909c-bc5c4cd8e39c){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+ <img src="/img/21lessons.png" height="auto" width="200" style="border-radius:20%"><br>
+[🐇 21 Lessons VR](https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+ <img src="/img/bitpaintvr.png" height="auto" width="200" style="border-radius:20%"><br>
+[🎨 Bitpaint VR](https://vrchat.com/home/world/wrld_771a5150-22e1-4e91-9c1f-069e2b0fc121){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
+
+ <img src="/img/winter.png" height="auto" width="200" style="border-radius:20%">  <br>
+[🏕️ Bitcoin Campfire](https://vrchat.com/home/world/wrld_8967d510-6c47-45c4-8c78-7aab93a35993){: .btn .fs-4 .mb-3 .mb-md-0 }  <br> <br>
+
+
+ <img src="/img/spooky.png" height="auto" width="200" style="border-radius:20%"> <br> 
+[🎃 Spooky Campfire](https://vrchat.com/home/world/wrld_687d595c-af18-452b-b149-aa663d102c9b){: .btn .fs-4 .mb-3 .mb-md-0 }  <br><br>
+
+
+
