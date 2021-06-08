@@ -8,20 +8,20 @@ has_children: false
 <br>
 
 
- <img src="/img/The%20internet%20machine.jpeg" height="auto" width="200" style="border-radius:20%"><br>
-![Image](https://raw.githubusercontent.com/bitpaint/Street-art/master/)
-
- <img src="/img/Bitcoin.jpg" height="auto" width="200" style="border-radius:20%"><br>
+ <img src="/img/The%20internet%20machine.jpeg" height="auto" width="400" style="border-radius:20%"><br><br>
 
 
- <img src="/img/Fiatman.jpg" height="auto" width="200" style="border-radius:20%"><br>
+ <img src="/img/Bitcoin.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
 
- <img src="/img/Learn-Bitcoin.jpg" height="auto" width="200" style="border-radius:20%"><br>
+ <img src="/img/Fiatman.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
 
- <img src="/img/Bitcoin_2" height="auto" width="200" style="border-radius:20%"><br>
+ <img src="/img/Learn-Bitcoin.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
 
- <img src="/img/Bitcoin_2.jpg" height="auto" width="200" style="border-radius:20%"><br>
+ <img src="/img/Bitcoin_2.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
+
+
+ <img src="/img/Bitcoin_2.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
