@@ -8,7 +8,7 @@ has_children: false
 <br>
 
 
- <img src="/img/The%20internet%20machine.jpeg" height="auto" width="400" style="border-radius:20%"><br><br>
+ <img src="/img/The%20internet%20machine.jpeg" height="auto" width="400" style="border-radius:20%"><br>
 
 
  <img src="/img/Bitcoin.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
@@ -23,5 +23,9 @@ has_children: false
  <img src="/img/Bitcoin_2.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
 
- <img src="/img/Bitcoin_2.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
+ <img src="/img/use bitcoin.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
+
+
+
+ <img src="/img/The Internet Of money.jpg" height="auto" width="400" style="border-radius:20%"><br><br>
 
