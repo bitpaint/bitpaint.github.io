@@ -7,7 +7,9 @@ nav_order: 0
 <br>
 <span class="fs-8">Hey 👋</span><br>
 
-
+ <img src="https://pbs.twimg.com/profile_images/1400983164118573059/2l28geJ8_400x400.jpg" height="auto" width="200" style="border-radius:50%">
+ 
+ <img src="/img/400x400.jpg" height="auto" width="200" style="border-radius:50%">
 **<b><span class="fs-4">I am bitpaint, welcome to my website!</span><br></b>**
 <br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
@@ -24,4 +26,4 @@ Since i'm not a dev, I've created Bitcoin Artistic content: <br>
 
 [📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
 
-  <a href="test.io"><img src="https://images.internetstores.de/products/555884/02/fb4b34/schwalbe-g-one-speed-evo-snakeskin-tl-easy-29-faltbar-1.jpg" height="auto" width="200" style="border-radius:50%"></a>
+ <img src="https://pbs.twimg.com/profile_images/1400983164118573059/2l28geJ8_400x400.jpg" height="auto" width="200" style="border-radius:50%">
