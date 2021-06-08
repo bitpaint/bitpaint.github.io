@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 <span class="fs-8">🤿 Virtual Reality</span><br><br>
-**VRChat** is free, download it from Steam!
+**VRChat** is free, download it from Steam or from the Occulus store! 
 
 
 
