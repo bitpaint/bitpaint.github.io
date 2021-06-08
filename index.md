@@ -24,4 +24,4 @@ Since i'm not a dev, I've created Bitcoin Artistic content: <br>
 
 [📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
 
-
+  <a href="test.io"><img src="https://images.internetstores.de/products/555884/02/fb4b34/schwalbe-g-one-speed-evo-snakeskin-tl-easy-29-faltbar-1.jpg" height="auto" width="200" style="border-radius:50%"></a>
