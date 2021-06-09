@@ -4,7 +4,7 @@ remote_theme: pmarsceill/just-the-docs
 
 url: "https://bitpaint.github.io" 
 color_scheme: dark
-.text-purple-000
+
 search_enabled: false
 
 title: bitpaint
