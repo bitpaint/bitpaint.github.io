@@ -11,7 +11,7 @@ nav_order: 0
 **<b><span class="fs-4">i'm bitpaint, welcome to my website!</span><br></b>**
 <br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
-Since i'm not a dev, I've created Bitcoin Artistic content: <br>
+I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
 -  VR worlds
 -  Street Art
 -  Graffiti
