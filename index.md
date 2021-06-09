@@ -21,7 +21,8 @@ I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
 <br><br>
 
 <br>
-
- <img src="/img/21.png" height="auto" width="150" style="border-radius:50%"> **<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br>** <br>
+ <img src="/img/21.png" height="auto" width="150" style="border-radius:50%">  <br>
+<span class="fs-8">Bitcoin VR</span><br>
+**<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br>**
 [📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
 

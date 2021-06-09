@@ -6,6 +6,9 @@ has_children: false
 ---
 <span class="fs-8">🤿 Virtual Reality</span><br><br>
 **VRChat** is free, download it from Steam or from the Occulus store! 
+<br>
+<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in **CTDL21 magazine vol.5!**</span><br>
+[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
 
 
 
