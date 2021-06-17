@@ -12,7 +12,7 @@ has_children: false
 
 
 
-**<b><span class="fs-4">I created a VR version on 21Lessons & others Bitcoin places in VRChat...</span><br></b>**
+**<b><span class="fs-4">I created a VR version of 21Lessons and others Bitcoin meetup places:</span><br></b>**
 <br>
 
  <img src="/img/cafe.png" height="auto" width="300" style="border-radius:20%"><br>
