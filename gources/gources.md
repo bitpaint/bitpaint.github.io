@@ -6,7 +6,7 @@ has_children: false
 ---
 <span class="fs-8">🎬 Gources</span><br>
 <br>
-![image](/img/gource.gif "image")<br>
+![image](/img/gource.jpg "image")<br>
 **What is "gource" ?**<br>
 Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
 Directories appear as branches with files as leaves.
@@ -22,4 +22,3 @@ I did some Bitcoin related gources, you can find them on youtube! <br><br>
 Also i combined a few bitcoin related repos so you can just download the files and run it:<br><br>
 
 [bitcoin-gources](https://github.com/bitpaint/bitcoin-gources){: .btn .fs-4 .mb-3 .mb-md-0 } 
-
