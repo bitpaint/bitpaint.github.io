@@ -5,6 +5,15 @@ nav_order: 2
 has_children: false
 ---
 <span class="fs-8">🤿 Virtual Reality</span><br><br>
+<span class="fs-7">Mozzila Hubs</span><br><br>
+**Mozzila Hubs** is free, you can join from browser with a few clics. No account needed. No download/instalation needed. <br>
+For now, only Bitcoin Cafe is available in hubs.<br>
+[Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
+
+
+
+
+<span class="fs-7">VRChat</span><br><br>
 **VRChat** is free, download it from Steam or from the Occulus store! 
 <br>
 <span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in **CTDL21 magazine vol.5!**</span><br>
