@@ -5,8 +5,10 @@ nav_order: 4
 has_children: false
 ---
 <span class="fs-8">🎬 Gources</span><br>
-<br>
-![image](/img/gource.jpg "image")<br>
+<br><br>
+
+ <img src="/img/gource.jpg" height="auto"  style="border-radius:20%"><br><br>
+
 **What is "gource" ?**<br>
 Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
 Directories appear as branches with files as leaves.
