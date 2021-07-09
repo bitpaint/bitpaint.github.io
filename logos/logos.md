@@ -7,7 +7,7 @@ has_children: false
 
 <span class="fs-8">💡More</span><br>
 <br>
-**Bitcoin accepter here:**<br>
+**Bitcoin accepted here:**<br>
 <br>
 [Download from github](https://github.com/bitpaint/logos/tree/main/img/bitcoin_accepted_here){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
 <br>

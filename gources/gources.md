@@ -7,7 +7,7 @@ has_children: false
 <span class="fs-8">🎬 Gources</span><br>
 <br><br>
 
- <img src="/img/gource.jpg" height="auto"  style="border-radius:20%"><br><br>
+ <img src="/img/gource.jpg" height="auto"  style="border-radius:5%"><br><br>
 
 **What is "gource" ?**<br>
 Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
