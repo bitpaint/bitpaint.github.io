@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🎬 Gources
-nav_order: 4
+nav_order: 1
 has_children: false
 ---
 <span class="fs-8">🎬 Gources</span><br>
@@ -9,13 +9,16 @@ has_children: false
 
  <img src="/img/gource.jpg" height="auto"  style="border-radius:5%"><br><br>
 
-**What is "gource" ?**<br>
+<span class="fs-8"> What is "gource" ?</span><br>
+
 Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
 Directories appear as branches with files as leaves.
 Developers can be seen working on the tree at the times they contributed to the project.<br>
 [gource.io](https://gource.io/){: .btn .fs-4 .mb-3 .mb-md-0 }  <br>
 
-<br>**Bitcoin gources**<br>
+
+<span class="fs-8"><br>**Bitcoin gources**?</span><br>
+
 I did some Bitcoin related gources, you can find them on youtube! <br><br>
 [Youtube playlist](https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ){: .btn .fs-4 .mb-3 .mb-md-0 } 
 
