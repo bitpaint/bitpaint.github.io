@@ -6,10 +6,11 @@ nav_order: 0
 [Twitter](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 }   [Instagram](https://www.instagram.com/bitpaint.club){: .btn .fs-4 .mb-3 .mb-md-0 }  [bitcoin.pdf](https://bitpaint.club/bitcoin.pdf){: .btn .fs-4 .mb-3 .mb-md-0 }       [🍺 Tip](https://btcpay177475.lndyn.com/){: .btn .fs-4 .mb-3 .mb-md-0 }  
 <br>
 
- <img src="/img/400x400.jpg" height="auto" width="200" style="border-radius:50%"><br>
-<span class="fs-8">Hey 👋</span><br>
+<span class="fs-10">Hey 👋</span><br>
 **<b><span class="fs-4">i'm bitpaint, welcome to my website!</span><br></b>**
 <br>
+
+ <img src="/img/400x400.jpg" height="auto" width="200" style="border-radius:50%"><br><br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
 I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
 -  VR worlds
