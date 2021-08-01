@@ -7,7 +7,7 @@ nav_order: 0
 <br>
 
 <span class="fs-10">Hey 👋</span><br>
-**<b><span class="fs-4">i'm bitpaint, welcome to my website!</span><br></b>**
+**<b><span class="fs-4">i'm bitpaint, welcome to my website.</span><br></b>**
 <br>
 
  <img src="/img/400x400.jpg" height="auto" width="200" style="border-radius:50%"><br><br>
@@ -17,7 +17,7 @@ I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
 -  Street Art
 -  Graffiti
 -  Digital Art / Canvas
--  Gources 
+-  Gources
 -  Websites and more...<br>
 <br><br>
 
@@ -25,5 +25,4 @@ I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
  <img src="/img/21.png" height="auto" width="150" style="border-radius:50%">  <br>
 <span class="fs-8">Bitcoin VR</span><br>
 **<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br>**
-[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
-
+[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
