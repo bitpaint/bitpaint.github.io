@@ -22,8 +22,13 @@ For now, only Bitcoin Cafe is available in hubs.<br>
 
 
 
-**<b><span class="fs-4">I created a VR version of 21Lessons and others Bitcoin meetup places:</span><br></b>**
+**<b><span class="fs-4">I created a VR version of [21Lessons](https://21lessons.com/vr/) and others Bitcoin meetup places:</span><br></b>**
 <br>
+
+ <img src="/img/metaverse.png" height="auto" width="300" style="border-radius:20%"><br>
+[☄️ METAVERSE](https://vrchat.com/home/world/wrld_0c0e4352-c959-44a9-ba9e-5d07d6acc46f){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
+
+
 
  <img src="/img/cafe.png" height="auto" width="300" style="border-radius:20%"><br>
 [☕ Bitcoin Café](https://vrchat.com/home/world/wrld_73ae10bd-7b61-47d0-909c-bc5c4cd8e39c){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
