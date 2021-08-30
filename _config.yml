@@ -1,9 +1,18 @@
-remote_theme: pmarsceill/just-the-docs
+# Site setting
+title: Bitpaint
 
+# Remote Setting
+baseurl: "/bitpaint.github.io"
 url: "https://bitpaint.github.io"
+
+# Theme
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs@v0.2.5
+
+# Theme settings
+# Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
 
+# Enable or disable the site search
+# Use this command to update index: bundle exec just-the-docs rake search:init
 search_enabled: true
-
-title: bitpaint
-nav_order: 0
