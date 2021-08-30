@@ -35,7 +35,7 @@ For now, only Bitcoin Café is available in hubs.<br>
 [🎨 Bitpaint VR](https://vrchat.com/home/world/wrld_771a5150-22e1-4e91-9c1f-069e2b0fc121){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
 
  <img src="/img/winter.png" height="auto" width="300" style="border-radius:20%">  <br>
-[🏕️ Bitcoin Campfire](https://vrchat.com/home/world/wrld_8967d510-6c47-45c4-8c78-7aab93a35993)){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
+[🏕️ Bitcoin Campfire](https://vrchat.com/home/world/wrld_8967d510-6c47-45c4-8c78-7aab93a35993){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
 
  <img src="/img/spooky.png" height="auto" width="300" style="border-radius:20%"> <br>
-[🎃 Spooky Campfire](https://vrchat.com/home/world/wrld_687d595c-af18-452b-b149-aa663d102c9b)){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
+[🎃 Spooky Campfire](https://vrchat.com/home/world/wrld_687d595c-af18-452b-b149-aa663d102c9b){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
