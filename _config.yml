@@ -1,13 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
 
-url: "https://bitpaint.github.io" 
+url: "https://bitpaint.github.io"
 color_scheme: dark
 
-search_enabled: false
+search_enabled: true
 
 title: bitpaint
 nav_order: 0
-
-
-
-
