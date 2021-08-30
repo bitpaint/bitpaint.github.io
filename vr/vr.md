@@ -4,27 +4,26 @@ title: 🤿 Virtual Reality
 nav_order: 3
 has_children: false
 ---
-<span class="fs-8">🤿 Virtual Reality</span><br><br>
+<span class="fs-8">Bitcoin & VR</span><br><br>
+
+---
+
 
  <img src="/img/hubs.png" height="auto" width="300" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
-<br>[ 🚀 Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
+<br>[ 🚀 Visit Bitcoin Café in Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
 
 
 ---
 
  <img src="/img/vrchat.png" height="auto" width="300" style="border-radius:20%"><br>
 **VRChat** is free, download it from Steam / Occulus store!
-<br>
-
-
-**<b><span class="fs-4">I created a VR version of [21Lessons](https://21lessons.com/vr/) and others Bitcoin meetup places:</span><br></b>**
-<br>
+<br><br>
 
  <img src="/img/metaverse.png" height="auto" width="300" style="border-radius:20%"><br>
-[☄️ METAVERSE](https://vrchat.com/home/world/wrld_0c0e4352-c959-44a9-ba9e-5d07d6acc46f){: .btn .fs-4 .mb-3 .mb-md-0 } <br> <br>
+[☄️ METAVERSE](https://vrchat.com/home/world/wrld_0c0e4352-c959-44a9-ba9e-5d07d6acc46f){: .btn .fs-8 .mb-3 .mb-md-0 } <br> <br>
 
 
 
