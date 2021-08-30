@@ -8,12 +8,8 @@ nav_order: 0
 
 
  <img src="/img/400x400.jpg" height="auto" width="100" style="border-radius:50%"><br>
-**<b><span class="fs-4">Bonjour! i'm bitpaint.</span><br></b>**
-<br>
+**<b><span class="fs-7">Bonjour! i'm bitpaint.</span><br></b>**
 
----
-
-<br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
 I'm **not** a developer, so i create Bitcoin content like : <br>
 -  Gources
@@ -33,6 +29,8 @@ I'm **not** a developer, so i create Bitcoin content like : <br>
 
 
 <br>
+---
+<br>
 <img src="/img/btcpay.png" height="auto" width="30" style="border-radius:50%">  <span class="fs-8">BTCPayServer</span> <br>
 <span class="fs-4">I'm a big fan of BTCPayServer!  Learn why below.</span><br><br>
 [💚 BTCPayServer Stories](https://blog.btcpayserver.org/bitpaint-btcpay-server-stories/){: .btn .fs-4 .mb-3 .mb-md-0 }
@@ -40,12 +38,15 @@ I'm **not** a developer, so i create Bitcoin content like : <br>
 
 
 <br>
+---
+<br>
 <img src="/img/21.png" height="auto" width="30" style="border-radius:50%">  <span class="fs-8">Citadel21</span> <br>
 <span class="fs-4">My story about Bitcoin&VR!</span><br><br>
 [📙 Citadel21  magazine Volume.5](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
 <br>
+---
 <img src="/img/rabbit.jpg" height="auto" width="30" style="border-radius:50%">  <span class="fs-8">Citadel21</span> <br>
 <span class="fs-4">VR version of 21 Lessons </span><br><br>
 [🕳️ Down the rabbit hole](https://21lessons.com/vr/){: .btn .fs-4 .mb-3 .mb-md-0 }
