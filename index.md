@@ -9,20 +9,32 @@ nav_order: 0
 <span class="fs-10">Hey 👋</span><br>
 **<b><span class="fs-4">i'm bitpaint, welcome to my website.</span><br></b>**
 <br>
+---
 
  <img src="/img/400x400.jpg" height="auto" width="200" style="border-radius:50%"><br><br>
-I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
-I'm **not** a developer  so I've created Bitcoin Artistic content: <br>
+I discovered Bitcoin in 2017, it blew my mind in 2018, i started contributing in 2019.<br>
+I'm **not** a developer, so i create Bitcoin content like: <br>
+-  Gources
 -  VR worlds
 -  Street Art
 -  Graffiti
 -  Digital Art / Canvas
--  Gources
+-  Translations
 -  Websites and more...<br>
 <br><br>
+
+
+---
+
+<br><br>
+ <img src="/img/btcpay.png" height="auto" width="150" style="border-radius:50%">  <br>
+**<span class="fs-4">I'm a big fan of BTCPayServer, learn why below.</span><br>**
+[📖 BTCPayServer Stories](https://blog.btcpayserver.org/bitpaint-btcpay-server-stories/){: .btn .fs-4 .mb-3 .mb-md-0 }
+
+
 
 <br>
  <img src="/img/21.png" height="auto" width="150" style="border-radius:50%">  <br>
 <span class="fs-8">Bitcoin VR</span><br>
-**<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in CTDL21 zine vol.5!</span><br>**
+**<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR inside Citadel21  magazine Volume.5!</span><br><br>**
 [📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }

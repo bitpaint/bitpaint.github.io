@@ -5,20 +5,21 @@ nav_order: 3
 has_children: false
 ---
 <span class="fs-8">🤿 Virtual Reality</span><br><br>
-<span class="fs-7">Mozzila Hubs</span><br><br>
-**Mozzila Hubs** is free, you can join from browser with a few clics. <br>
-No account needed. No download/instalation needed. <br>
-For now, only Bitcoin Cafe is available in hubs.<br>
+<span class="fs-7">Mozilla Hubs</span><br><br>
+ <img src="/img/hubs.png" height="auto" width="300" style="border-radius:20%"><br>
+**Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
+No account needed. No download/installation needed. <br>
+For now, only Bitcoin Café is available in hubs.<br>
 [Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
 
 
 
 
-<span class="fs-7">VRChat</span><br><br>
-**VRChat** is free, download it from Steam or from the Occulus store! 
+<span class="fs-8">VRChat</span><br><br>
+**VRChat** is free, download it from Steam / Occulus store!
 <br>
 <span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in **CTDL21 magazine vol.5!**</span><br>
-[📖 Read it here](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 } 
+[📖 Read the article](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
 
@@ -43,8 +44,5 @@ For now, only Bitcoin Cafe is available in hubs.<br>
 [🏕️ Bitcoin Campfire](https://vrchat.com/home/world/wrld_8967d510-6c47-45c4-8c78-7aab93a35993){: .btn .fs-4 .mb-3 .mb-md-0 }  <br> <br>
 
 
- <img src="/img/spooky.png" height="auto" width="300" style="border-radius:20%"> <br> 
+ <img src="/img/spooky.png" height="auto" width="300" style="border-radius:20%"> <br>
 [🎃 Spooky Campfire](https://vrchat.com/home/world/wrld_687d595c-af18-452b-b149-aa663d102c9b){: .btn .fs-4 .mb-3 .mb-md-0 }  <br><br>
-
-
-
