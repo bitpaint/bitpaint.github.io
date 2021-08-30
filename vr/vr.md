@@ -5,22 +5,19 @@ nav_order: 3
 has_children: false
 ---
 <span class="fs-8">🤿 Virtual Reality</span><br><br>
-<span class="fs-7">Mozilla Hubs</span><br><br>
+
  <img src="/img/hubs.png" height="auto" width="300" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
-[Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
+[ 🚀 Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
 
 
+---
 
-
-<span class="fs-8">VRChat</span><br><br>
+ <img src="/img/vrchat.png" height="auto" width="300" style="border-radius:20%"><br>
 **VRChat** is free, download it from Steam / Occulus store!
 <br>
-<span class="fs-4">I had the pleasure to write an article about Bitcoin&VR in **CTDL21 magazine vol.5!**</span><br>
-[📖 Read the article](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
-
 
 
 **<b><span class="fs-4">I created a VR version of [21Lessons](https://21lessons.com/vr/) and others Bitcoin meetup places:</span><br></b>**
