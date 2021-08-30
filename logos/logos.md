@@ -7,9 +7,10 @@ has_children: false
 
 <span class="fs-8">💡 Various Designs</span><br>
 <br>
-[Download from github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
+<span class="fs-4">[Download from github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
 
----<br><br>
+---
+<br><br>
 <span class="fs-7">**Lightning accepted here:**<br><br></span>
 
 <img src="https://raw.githubusercontent.com/bitpaint/logos/main/img/bitcoin_lightning_accepted_here/Lightning_accepted_here_fire.png" height="auto" width="430" style="border-radius:0%"><br>
@@ -24,10 +25,8 @@ has_children: false
 <img src="https://raw.githubusercontent.com/bitpaint/logos/main/img/bitcoin_lightning_accepted_here/Lightning_accepted_here_yellow.png" height="auto" width="430" style="border-radius:0%"><br>
 <span class="fs-3">[Download](https://raw.githubusercontent.com/bitpaint/logos/main/img/bitcoin_lightning_accepted_here/Lightning_accepted_here_yellow.png){: .btn }</span> <br> <br>
 
-<span class="fs-3"><span class="fs-3">[Download](http://example.com/){: .btn }</span>
-
-<button type="button" name="Download" class="btn">Button element</button>
 ---
+
 <br><br>
 <span class="fs-7">**Bitcoin accepted here:**<br><br></span>
 
