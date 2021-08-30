@@ -7,9 +7,11 @@ has_children: false
 
 <span class="fs-8">💡 Various Designs</span><br>
 <br>
-<span class="fs-4">[Download from github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
+<span class="fs-4">[See on github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
 
 ---
+
+
 <br><br>
 <span class="fs-7">**Lightning accepted here:**<br><br></span>
 

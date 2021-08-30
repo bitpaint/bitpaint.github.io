@@ -5,11 +5,15 @@ nav_order: 3
 has_children: false
 ---
 <span class="fs-8">Bitcoin & VR</span><br><br>
+**Join our weekly Bitcoin meetups:**
+
+[😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
+[🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br>
 
 ---
 
 
- <img src="/img/hubs.png" height="auto" width="300" style="border-radius:20%"><br>
+ <img src="/img/hubs.png" height="auto" width="250" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
@@ -18,7 +22,7 @@ For now, only Bitcoin Café is available in hubs.<br>
 
 ---
 
- <img src="/img/vrchat.png" height="auto" width="300" style="border-radius:20%"><br>
+ <img src="/img/vrchat.png" height="auto" width="250" style="border-radius:20%"><br>
 **VRChat** is free, but you need to download it from Steam / Occulus store to play.
 <br><br>
 
