@@ -6,7 +6,7 @@ has_children: false
 ---
 <span class="fs-10">🌆 Street-art</span><br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/bitpaint/Street-art/master/COPYING.txt)
 
 
 <br>
