@@ -10,7 +10,7 @@ has_children: false
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
-[ 🚀 Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
+<br>[ 🚀 Launch Hubs](https://hubs.mozilla.com/scenes/uFHPdPj){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br><br>
 
 
 ---
