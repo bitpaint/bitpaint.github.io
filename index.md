@@ -7,8 +7,8 @@ nav_order: 0
 <br>
 
 
- <img src="/img/400x400.jpg" height="auto" width="70" style="border-radius:50%"><span class="fs-10">Hey 👋</span><br>
-**<b><span class="fs-4">i'm bitpaint, welcome to my website.</span><br></b>**
+ <img src="/img/400x400.jpg" height="auto" width="100" style="border-radius:50%"><br>
+**<b><span class="fs-4">Bonjour! i'm bitpaint.</span><br></b>**
 <br>
 
 ---
