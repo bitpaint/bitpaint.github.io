@@ -4,6 +4,8 @@ title: 🤿 Virtual Reality
 nav_order: 3
 has_children: false
 ---
+
+<img src="/img/headergource.jpg" style="border-radius:5%"><br>
 <span class="fs-8">Bitcoin & VR</span><br><br>
 **Join our weekly Bitcoin meetups:**
 

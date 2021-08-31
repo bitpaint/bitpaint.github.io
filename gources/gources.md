@@ -4,12 +4,12 @@ title: 🎬 Gources
 nav_order: 1
 has_children: false
 ---
+
+<img src="/img/headergource.jpg" style="border-radius:5%"><br>
 <span class="fs-8">Bitcoin Gources</span><br>
 <br><br>
 
----
 
- <img src="/img/gource.jpg" height="auto"  style="border-radius:5%"><br><br>
 
 ---
 
