@@ -7,11 +7,12 @@ nav_order: 0
 
 ---
 
- <br> <img src="/img/400x400.jpg" height="auto" width="100" style="border-radius:50%"> <br>
-**<b><span class="fs-7">Bonjour! i'm bitpaint.</span><br></b>**
+ <br> <img src="/img/400x400.jpg" height="auto" width="250" style="border-radius:50%"> <br>
+**<span class="fs-7">Bonjour!<br> i'm bitpaint.</span><br>**
 
+<br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
-I'm **not** a developer, so i create Bitcoin content like : <br>
+I'm **not** a developer,but i can create Bitcoin content like:
 -  Gources
 -  VR worlds
 -  Street Art
