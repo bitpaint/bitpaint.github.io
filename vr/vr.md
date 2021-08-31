@@ -13,9 +13,7 @@ has_children: false
 <br>
  [😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-6 .mb-3 .mb-md-0 } <br> Usually every Saturday at 8PM EUROPE - 1PM CENTRAL <br>
 
-
----
-
+<br><br>
 
  [🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-6 .mb-3 .mb-md-0 }   <br>Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY <br>
 
