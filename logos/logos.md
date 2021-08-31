@@ -5,7 +5,7 @@ nav_order: 5
 has_children: false
 ---
 
-<span class="fs-12">💡 Various Designs</span><br>
+<span class="fs-10">💡 Various Designs</span><br>
 
 <br> <span class="fs-4">[Browse on github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
 
