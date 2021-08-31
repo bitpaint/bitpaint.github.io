@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-**<span class="fs-10">Bitcoin & VR</span><br><br>**
+**<span class="fs-10">Bitcoin & VR</span><br>**
 
 <img src="/img/headervr.jpg" width="500" style="border-radius:5%"><br>
 
