@@ -22,7 +22,7 @@ I'm **not** a developer,but i can create Bitcoin content like:
 ---
 
 
-<img src="/img/tinygif.gif" height="auto" width="45" style="border-radius:10%">  <span class="fs-8">Bitcoin gources</span> <br>
+<img src="/img/tinygif.gif" height="auto" width="45" style="border-radius:50%">  <span class="fs-8">Bitcoin gources</span> <br>
 <span class="fs-4">Visualization of Bitcoin devs activity made with Gource</span><br><br>
 [🌱 Youtube playlist](https://www.youtube.com/watch?v=1qRnSJIs6Dc&list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ){: .btn .fs-4 .mb-3 .mb-md-0 }
 
