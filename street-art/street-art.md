@@ -6,8 +6,7 @@ has_children: false
 ---
 <span class="fs-10">Street-art</span><br>
 
-<br> <span class="fs-4">[Browse on github](https://github.com/bitpaint/Street-art/){: .btn }</span> <br> <br>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/bitpaint/Street-art/master/COPYING.txt)
+<br> <span class="fs-3">[Browse on github](https://github.com/bitpaint/Street-art/){: .btn }</span> (https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 <br>
