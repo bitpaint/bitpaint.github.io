@@ -12,16 +12,16 @@ has_children: false
 
 <br>
 
- <img src="/img/Learn-Bitcoin.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/Learn-Bitcoin.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/The%20internet%20machine.jpeg" height="auto" width="550" style="border-radius:5%"><br>
+ <img src="/img/The%20internet%20machine.jpeg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/Bitcoin.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/Bitcoin.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/Fiatman.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/Fiatman.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/Bitcoin_2.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/Bitcoin_2.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/use bitcoin.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/use bitcoin.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
 
- <img src="/img/The Internet Of money.jpg" height="auto" width="550" style="border-radius:5%"><br><br>
+ <img src="/img/The Internet Of money.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
