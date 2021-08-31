@@ -23,6 +23,17 @@ has_children: false
 ---
 
 
+
+
+<br>
+<img src="/img/21.png" height="auto" width="35" style="border-radius:50%">  <span class="fs-8">Citadel21</span> <br>
+<span class="fs-4">My story about Bitcoin&VR!</span><br><br>
+[📙 Citadel21  magazine Volume.5](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
+
+
+
+
+
 <br>
 
 <span class="fs-6">**Mozilla Hubs**</span>
