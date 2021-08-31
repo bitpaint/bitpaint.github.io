@@ -36,8 +36,8 @@ has_children: false
 
 <br>
 
-<span class="fs-6">**Mozilla Hubs**</span>
  <img src="/img/hubs.png" height="auto" width="150" style="border-radius:20%"><br>
+<span class="fs-6">**Mozilla Hubs**</span><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
@@ -46,8 +46,8 @@ For now, only Bitcoin Café is available in hubs.<br>
 
 ---
 
-<span class="fs-8">**VRChat**</span>
  <img src="/img/vrchat.png" height="auto" width="150" style="border-radius:20%"><br>
+<span class="fs-8">**VRChat**</span><br>
 **VRChat** is free, but you need to download it from Steam / Occulus store before joining.
 <br><br>
 
