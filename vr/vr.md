@@ -10,10 +10,10 @@ has_children: false
 **Join our weekly Bitcoin meetups:**
 <br>
 
-[😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } - Usually every Saturday at 8PM EUROPE - 1PM CENTRAL -  <br>
-[🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 } - Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY
+[😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 }  Usually every Saturday at 8PM EUROPE - 1PM CENTRAL <br>
+[🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 }   Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY <br>
 ---
-<BR>
+<br>
 
  <img src="/img/hubs.png" height="auto" width="250" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
@@ -38,7 +38,7 @@ For now, only Bitcoin Café is available in hubs.<br>
 [☕ BITCOIN CAFE](https://vrchat.com/home/world/wrld_73ae10bd-7b61-47d0-909c-bc5c4cd8e39c){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
 
  <img src="/img/bitpaintvr.png" height="auto" width="300" style="border-radius:20%"><br>
-[🎨 Bitpaint VR](https://vrchat.com/home/world/wrld_771a5150-22e1-4e91-9c1f-069e2b0fc121){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
+[🎨 BITPAINT VR](https://vrchat.com/home/world/wrld_771a5150-22e1-4e91-9c1f-069e2b0fc121){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
 
  <img src="/img/winter.png" height="auto" width="300" style="border-radius:20%">  <br>
 [🏕️ Bitcoin Campfire](https://vrchat.com/home/world/wrld_8967d510-6c47-45c4-8c78-7aab93a35993){: .btn .fs-6 .mb-3 .mb-md-0 } <br> <br>
