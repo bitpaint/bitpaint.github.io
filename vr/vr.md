@@ -8,12 +8,10 @@ has_children: false
 <img src="/img/headervr.jpg" width="500" style="border-radius:5%"><br>
 <span class="fs-8">Bitcoin & VR</span><br><br>
 **Join our weekly Bitcoin meetups:**
-
-[😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
-[🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 } <br><br>
-
+[😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } - Usually every Saturday at 8PM EUROPE - 1PM CENTRAL - 
+[🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 } - Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY
 ---
-
+<BR>
 
  <img src="/img/hubs.png" height="auto" width="250" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
