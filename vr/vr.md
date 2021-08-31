@@ -12,8 +12,13 @@ has_children: false
 **Join our weekly Bitcoin meetups:**
 <br>
  [😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-10 .mb-3 .mb-md-0 } <br> Usually every Saturday at 8PM EUROPE - 1PM CENTRAL <br>
+ ---
  [🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-10 .mb-3 .mb-md-0 }   <br>Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY <br>
+
+
 ---
+
+
 <br>
 
  <img src="/img/hubs.png" height="auto" width="250" style="border-radius:20%"><br>
