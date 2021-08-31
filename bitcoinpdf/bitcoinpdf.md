@@ -4,7 +4,8 @@ title: 📝 bitcoin.pdf
 nav_order: 99
 has_children: false
 ---
-<span class="fs-8">📝 bitcoin.pdf</span><br>
+<span class="fs-10">📝 bitcoin.pdf</span><br>
+craig wright is a fraud
 <br>
 [bitpaint.club/bitcoin.pdf](https://bitpaint.club/bitcoin.pdf)
 
