@@ -25,7 +25,7 @@ has_children: false
 
 <br>
 
-<span class="fs-8">**Mozilla Hubs**</span>
+<span class="fs-6">**Mozilla Hubs**</span>
  <img src="/img/hubs.png" height="auto" width="150" style="border-radius:20%"><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
