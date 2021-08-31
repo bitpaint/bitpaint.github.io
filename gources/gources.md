@@ -5,8 +5,8 @@ nav_order: 1
 has_children: false
 ---
 
+**<span class="fs-12">Bitcoin Gources</span><br>**
 <img src="/img/headergource.jpg"  width="500"  style="border-radius:5%"><br>
-<span class="fs-8">Bitcoin Gources</span><br>
 <br><br>
 
 
