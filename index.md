@@ -21,16 +21,21 @@ I'm **not** a developer,but i can create Bitcoin content like:
 
 ---
 
+
+
+<img src="/img/tinygif.gif" height="auto" width="45" style="border-radius:50%">  <span class="fs-8">Bitcoin gources</span> <br>
+<span class="fs-4">Visualization of Bitcoin devs activity made with Gource</span><br><br>
+[🌱 Youtube playlist](https://www.youtube.com/watch?v=1qRnSJIs6Dc&list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
+
+
+---
+
+
 <br>
 <img src="/img/zine.jpg" height="auto" width="35" style="border-radius:50%">  <span class="fs-8">The Bitcoin Zine </span> <br>
 <span class="fs-4">I had the pleasure to tell my story about Bitcoin & street art inside The Bitcoin Zine.</span><br><br>
 [👍 The Bitcoin Zine - Artist Feature](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
 
-
-
-<img src="/img/tinygif.gif" height="auto" width="45" style="border-radius:50%">  <span class="fs-8">Bitcoin gources</span> <br>
-<span class="fs-4">Visualization of Bitcoin devs activity made with Gource</span><br><br>
-[🌱 Youtube playlist](https://www.youtube.com/watch?v=1qRnSJIs6Dc&list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
 

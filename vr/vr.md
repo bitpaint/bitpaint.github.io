@@ -7,20 +7,8 @@ has_children: false
 
 **<span class="fs-10">Bitcoin & VR</span><br>**
 
+
 <img src="/img/headervr.jpg" width="500" style="border-radius:5%"><br>
-
-<span class="fs-6">**Join our weekly Bitcoin meetups:**</span>
-<br>
- [😎 @RecklessVR](https://twitter.com/RecklessVR){: .btn .fs-6 .mb-3 .mb-md-0 } <br> Usually every Saturday at 8PM EUROPE - 1PM CENTRAL <br>
-
-<br><br>
-
- [🦘 @BTCVRDownunder](https://twitter.com/BTCVRDownunder){: .btn .fs-6 .mb-3 .mb-md-0 }   <br>Usually every Wednesday at 1PM EUROPE - 9PM SYDNEY <br>
-
-
----
-
-
 
 
 <br>
@@ -29,13 +17,31 @@ has_children: false
 [📙 Citadel21  magazine Volume.5](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
+<br>
+<img src="/img/rabbit.jpg" height="auto" width="35" style="border-radius:50%">  <span class="fs-8">21 Lessons</span> <br>
+<span class="fs-4">VR version of 21 Lessons </span><br><br>
+[🕳️ Down the rabbit hole](https://21lessons.com/vr/){: .btn .fs-4 .mb-3 .mb-md-0 }
+<br>
+
+
+
+<span class="fs-6">**Join our weekly Bitcoin meetups:**</span>
+<br>
+ [😎 @RecklessVR - Saturday at 8PM EUROPE - 1PM CENTRAL](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
+ [🦘 @BTCVRDownunder - Wednesday at 1PM EUROPE - 9PM SYDNEY](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 }
+
+
+---
+
+
+
 
 
 
 <br>
 
- <img src="/img/hubs.png" height="auto" width="150" style="border-radius:20%"><br>
-<span class="fs-6">**Mozilla Hubs**</span><br>
+ <img src="/img/hubs.png" height="auto" width="150" style="border-radius:0%"><br>
+<span class="fs-8">**Mozilla Hubs**</span><br>
 **Mozilla Hubs** is free, you can visit from a web browser with a few clicks. <br>
 No account needed. No download/installation needed. <br>
 For now, only Bitcoin Café is available in hubs.<br>
@@ -44,7 +50,7 @@ For now, only Bitcoin Café is available in hubs.<br>
 
 ---
 
- <img src="/img/vrchat.png" height="auto" width="150" style="border-radius:20%"><br>
+ <img src="/img/vrchat.png" height="auto" width="150" style="border-radius:5%"><br>
 <span class="fs-8">**VRChat**</span><br>
 **VRChat** is free, but you need to download it from Steam / Occulus store before joining.
 <br><br>
