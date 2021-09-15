@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🤿 Virtual Reality
+title: VR
 nav_order: 3
 has_children: false
 ---
