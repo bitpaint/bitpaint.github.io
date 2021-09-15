@@ -1,6 +1,6 @@
 ---
 title: Child of VR
-parent: vr
+parent: 🤿 Virtual Reality
 has_children: false
 nav_order: 1
 ---
