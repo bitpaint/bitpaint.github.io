@@ -2,7 +2,7 @@
 layout: default
 title: 🤿 Virtual Reality
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 **<span class="fs-10">Bitcoin & VR</span><br>**
