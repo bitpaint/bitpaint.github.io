@@ -34,7 +34,7 @@ I'm **not** a developer,but i can create Bitcoin content like:
 <br>
 <img src="/img/zine.jpg" height="auto" width="35" style="border-radius:50%">  <span class="fs-8">The Bitcoin Zine </span> <br>
 <span class="fs-4">I had the pleasure to tell my story about Bitcoin & street art inside The Bitcoin Zine.</span><br><br>
-[👍 The Bitcoin Zine - Artist Feature](https://www.citadel21.com/vr-for-bitcoiners){: .btn .fs-4 .mb-3 .mb-md-0 }
+[👍 The Bitcoin Zine - page 24 to 27](https://raw.githubusercontent.com/TheBitcoinZine/TheBitcoinZine/master/Issue_03.pdf){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
 
