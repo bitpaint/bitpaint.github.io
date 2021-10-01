@@ -6,9 +6,7 @@ nav_order: 0
 [Twitter](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 }   [Instagram](https://www.instagram.com/bitpaint.club){: .btn .fs-4 .mb-3 .mb-md-0 }  [bitcoin.pdf](https://bitpaint.club/bitcoin.pdf){: .btn .fs-4 .mb-3 .mb-md-0 }       [🍺 Tip](https://btcpay177475.lndyn.com/){: .btn .fs-4 .mb-3 .mb-md-0 }  
 
 ---
-
- <br> <img src="/img/animlight.gif" style="border-radius:50%"> <br>
-**<span class="fs-7">Bonjour, i'm bitpaint.</span><br>**
+<img src="/img/animlight.gif" height="auto" width="45" style="border-radius:50%">  **<span class="fs-7">Bonjour, i'm bitpaint.</span><br>**
 
 <br>
 I discovered Bitcoin in 2017, it blew my mind in 2018.<br>
