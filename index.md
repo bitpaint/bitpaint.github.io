@@ -7,7 +7,7 @@ nav_order: 0
 
 ---
 
- <br> <img src="/img/animlight.gif" height="auto" width="250" style="border-radius:50%"> <br>
+ <br> <img src="/img/animlight.gif" style="border-radius:50%"> <br>
 **<span class="fs-7">Bonjour, i'm bitpaint.</span><br>**
 
 <br>
