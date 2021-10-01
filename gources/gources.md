@@ -8,7 +8,6 @@ has_children: false
 **<span class="fs-10">Bitcoin Gources</span><br>**
 <img src="/img/headergource.jpg"  width="500"  style="border-radius:5%"><br>
 <br><br>
-All songs are from Chris Zabriskie under Creative Commons 4.0 license.<br>
 
 
 ---
