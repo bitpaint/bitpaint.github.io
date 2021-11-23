@@ -121,7 +121,8 @@ html {
 }
 
 .payment-tabs__tab.active  {
-	background:#55FFFF /*===TEXT COLOR ON ACTIVE TAB===*/
+	background:#55FFFF; /*===TEXT COLOR ON ACTIVE TAB===*/
+	border-bottom: #fff 3px solid;
 }
 
 .payment-tabs__tab.active > span  {
