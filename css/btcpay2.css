@@ -1,17 +1,522 @@
-.top-header {background-color: #fff;}
-.top-header .timer-row__progress-bar {background:#ef8022;}
-.top-header .timer-row {background: #linear-gradient(#17082e 0,#1a0933 7%,#1a0933 80%,#0c1f4c 100%);}
-.close-icon {color:#000;}
-.payment-tabs__slider {background: #ef8022;     }
-.separatorGem {background: #ef8022;}
-.action-button {color: #fff; background-color: #ef8022;border-color: #ef8022;}
-.action-button:hover {background-color: #linear-gradient(#17082e 0,#1a0933 7%,#1a0933 80%,#0c1f4c 100%);}
-.action-button:focus, .action-button.focus {color: #fff;background-color: #ef8022;    border-color: #ef8022; border-radius: 100px;}
-.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: #ef8022;    border-color: #ef8022; border-radius: 100px;}
-.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: #ef8022;    border-color: #ef8022;}
-.btnGroupLnd button {border: solid 1px #ef8022;}
-.btnGroupLnd button.active {background-color: #ef8022; border-color: #ef8022;}
-.btnGroupLnd button:hover {background-color:#linear-gradient(#17082e 0,#1a0933 7%,#1a0933 80%,#0c1f4c 100%);}
-.btnGroupLnd button.active:hover {background-color:#ef8022;}
-.btn {border-radius: 100px;}
-.body {background-image: linear-gradient(#17082e 0,#1a0933 7%,#1a0933 80%,#0c1f4c 100%);}
+/*==============================CREDITS=============================*/
+/*	Custom BTCpay Server CSS template made by @artdesignbySF		*/
+/*	for Citadel21 at https://www.citadel21.com/						*/
+/*	and @ctdl21 on Twitter											*/
+/*============================END CREDITS===========================*/
+
+/*============================DISCLAIMER============================*/
+/*	Might not be the most efficient or correct way of implementing	*/
+/*	CSS. I am not responsable for breaking your website if things	*/
+/*	go wrong. PEACE / LOVE / BITCOIN								*/
+/*==========================END DISCLAIMER==========================*/
+
+/*======FONT SETTINGS======*/
+/*
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i');
+@font-face {font-family: 'Gilroy-Bold';src: url('fonts/38FF13_11_0.eot');src: url('fonts/38FF13_11_0.eot?#iefix') format('embedded-opentype'),url('fonts/38FF13_11_0.woff2') format('woff2'),url('fonts/38FF13_11_0.woff') format('woff'),url('fonts/38FF13_11_0.ttf') format('truetype');}
+@font-face {font-family: 'Gilroy-Medium';src: url('fonts/38FF13_9_0.eot');src: url('fonts/38FF13_9_0.eot?#iefix') format('embedded-opentype'),url('fonts/38FF13_9_0.woff2') format('woff2'),url('fonts/38FF13_9_0.woff') format('woff'),url('fonts/38FF13_9_0.ttf') format('truetype');}
+@font-face {font-family: 'Gilroy-Regular';src: url('fonts/38FF13_6_0.eot');src: url('fonts/38FF13_6_0.eot?#iefix') format('embedded-opentype'),url('fonts/38FF13_6_0.woff2') format('woff2'),url('fonts/38FF13_6_0.woff') format('woff'),url('fonts/38FF13_6_0.ttf') format('truetype');}
+
+body {
+		font-family: 'Gilroy-Bold', sans-serif;
+}
+
+/*=============================*/
+
+/*======BACKGROUND COLOR======*/
+html {
+    background-color: #000000 ;
+}
+
+.modal.page {
+	background-image: linear-gradient(0deg, #000000 , #000000);
+}
+/*=============================*/
+
+/*=======OUTLINE SETTINGS=======*/
+.modal-content.long{
+	border-radius: 2px;	/*===ROUNDED CORNERS===*/
+	box-shadow: 0px 0px 0px 0px #000000;	/*===OUTSIDE SHADOW===*/
+}
+/*=============================*/
+
+/*=======HEADER SETTINGS=======*/
+.top-header {
+    background-color: #000000;	/*===HEADER BACKGROUND GRADIENT, CAN BE CHANGED TO SINGLE COLOR. UPLOAD (TRANSPARANT) PNG WITH HEADER LOGO WITH FOLLOWING DIMENTSIONS 720X120PX ===*/
+	border-radius: 2px;	/*===ROUNDED CORNER SETTINGS===*/
+}
+
+.header {
+	height:60px;
+}
+
+.top-header .timer-row__progress-bar {
+    background:  linear-gradient(30deg, #000000, #000000);  	/*===PROGRESS BAR COLOR===*/
+	height:27px;
+	border-left: 0px solid #55FFFF;
+	border-right:0px solid #55FFFF;
+	border-top: 0px solid #000000;
+}
+
+.top-header .timer-row {
+	background-color: #FF55FF;	/*===PROGRESS BAR BACKGROUND COLOR===*/
+    border-top: 2px solid #000000; 	/*===COLORED LINE ABOVE PROGRESS BAR===*/
+    border-bottom: 0px solid #000000;
+}
+
+.top-header .timer-row.expiring-soon {
+	background: #fff;
+}
+
+.header__icon__img {
+	width:360px; 	/*===HEADER DIMENSIONS===*/
+	height:60px;	/*===HEADER DIMENSIONS===*/
+	margin-left:-10px; 	/*===HEADER POSITION CORRECTION===*/
+	margin-top:-10px; 	/*===HEADER POSITION CORRECTION===*/
+	background-color: #000000;
+	border-radius: 2px 2px 0px 0px;	/*===ROUNDED CORNERS===*/
+}
+/*============================*/
+
+/*=====PAY WITH / AMOUNTS=====*/
+.line-items {
+	background-image: linear-gradient(180deg, #55FFFF, #55FFFF);	/*===BACKGROUND COLOR===*/
+    color: #55FFFF !important;		/*===TEXT COLOR===*/
+	padding-top: 15px;
+    padding-bottom: 10px;
+	border-top: 2px solid #55FFFF;
+}
+
+.buyerTotalLine {
+	background-color: #000000;
+    color: #fff;		/*===TEXT COLOR===*/
+	padding-top: 12px;
+    padding-bottom: 12px;
+	border-top:  0 px solid #55FFFF;
+}
+/*================FF55FF==========*/
+
+/*=======PAYMENT TABS=======*/
+
+
+.payment-tabs {
+    background: #55FFFF; /*===BACKGROUND COLOR===*/
+	border-top:2px solid #000000;	/*===COLORED LINE ABOVE PAYMENT TABS===*/
+/*	border-bottom: 2px solid #000000;	/*===COLORED LINE BELOW PAYMENT TABS===*/
+}
+
+.payment-tabs__slider {
+	background-image: linear-gradient(30deg, #FF55FF, #FF55FF);	/*===SLIDER COLOR===*/
+	height: 8px;
+	margin-bottom: 36px;
+}
+
+.payment-tabs__tab:hover { 
+	background: #FF55FF; /*===TAB BACKGROUND ON HOVER===*/
+}
+
+
+.payment-tabs__tab:hover > span {
+	color:#fff; /*===TEXT BACKGROUND ON HOVER===*/
+}
+
+.payment-tabs__tab.active  {
+	background:#55FFFF /*===TEXT COLOR ON ACTIVE TAB===*/
+}
+
+.payment-tabs__tab.active > span  {
+	color: #000000; /*===TAB BACKGROUND ON HOVER===*/
+}
+
+.payment-tabs__tab > span  {
+	color: #000000; /*===TAB BACKGROUND ON HOVER===*/
+}
+/*===========================*/
+
+/*===OPEN IN WALLET BUTTON===*/
+.action-button {
+	background-image: linear-gradient(30deg, #55FFFF, #55FFFF);		/*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	box-shadow: 0px 0px 0px 0px #5c5c5c; 	/*===DROP SHADOW SETTINGS===*/
+	border-radius: 2px; 	/*===ROUNDED CORNER SETTINGS===*/
+	border: 0px;
+}
+
+.action-button:hover {
+	background-image: linear-gradient(30deg, #FF55FF, #FF55FF);		/*===HOVER BUTTON BACKGROUND COLOR GRADIENT===*/
+	border-color:#FF55FF; /*===BUTTON BORDER COLOR===*/
+	color: #fff;
+}
+
+.action-button > span {
+	color:#000000;
+	}
+
+.action-button:hover > span {
+	color:#fff;
+	}
+/*============================*/
+
+/*===BOLT/NODE INFO BUTTONS===*/
+.btnGroupLnd {
+	background-image: linear-gradient(30deg, #000000, #000000);	/*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	background-color:#000000;	/*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+	border-color:#000000;	/*===BUTTON BORDER COLOR===*/
+	border-radius: 2px;	/*===ROUNDED CORNER SETTINGS===*/
+}
+
+.btnGroupLnd button {
+	background-image: linear-gradient(30deg, #000000, #000000); /*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	background-color:#55FFFF;	/*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+	border: 2px solid #FF55FF; 
+	color:#55FFFF;
+	border-radius: 2px;	/*===BUTTON BORDER COLOR===*/
+ /*===ROUNDED CORNER SETTINGS===*/
+}
+
+.btnGroupLnd button:hover {
+	background-image: linear-gradient(30deg,  #000000, #000000);/*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	background-color:#000000;	/*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+	border: 2px solid #FF55FF;  
+	color:#FF55FF;
+	border-radius: 2px;	/*===BUTTON BORDER COLOR===*/
+ /*===ROUNDED CORNER SETTINGS===*/
+}
+
+.btnGroupLnd button.active {
+		background-image: linear-gradient(30deg, #FF55FF, #FF55FF);	/*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	background-color:#FF55FF;	/*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+	border: 2px solid #FF55FF;
+	border-radius: 2px;	/*===BUTTON BORDER COLOR===*/
+		/*===ROUNDED CORNER SETTINGS===*/
+}
+
+.btnGroupLnd button.active:hover {
+		background-image: linear-gradient(30deg, #FF55FF, #FF55FF);	/*===BUTTON BACKGROUND COLOR GRADIENT===*/
+	background-color:#FF55FF;	/*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+	border: 2px solid #FF55FF;
+	border-radius: 2px;	/*===BUTTON BORDER COLOR===*/
+		/*===ROUNDED CORNER SETTINGS===*/
+}
+
+.btnGroupLnd button:last-child {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.btnGroupLnd button:first-child {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+/*===========================*/
+
+/*=====CURRENCY DROPDOWN=====*/
+.currency-selection { /*===NOT THE DROP DOWN MENU===*/
+	background: #000000;	/*===BACKGROUND COLOR===*/
+	border-bottom: 2px solid #55FFFF;
+    color: #55FFFF;	/*===TEXT COLOR===*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+.payment__currencies_noborder {
+  margin-left:auto; 
+  margin-right:15; 
+  white-space: nowrap;
+  color:#fff;
+  background-image: linear-gradient(30deg, #55FFFF, #55FFFF);
+  border-radius: 5px;
+  width: 130px;
+  padding-right:15px;
+}
+
+
+.payment__currencies {
+	background-image: linear-gradient(30deg, #55FFFF, #55FFFF);
+	border:0px;
+	border-radius: 2px;	/*===ROUNDED CORNER SETTINGS===*/
+}
+
+.payment__currencies:hover {
+	background-image: linear-gradient(30deg, #FF55FF, #FF55FF); /*===MENU HOVER HIGHLIGHT COLOR===*/
+	border:0px solid #FF55FF;
+}
+
+.payment__currencies_noborder:hover {
+  color:#55FFFF;
+  background-image: linear-gradient(30deg, #55FFFF, #55FFFF);
+}
+
+.vex.vex-theme-btcpay .vex-content  {
+	background:#55FFFF;
+	padding: 0px;
+	border-radius: 2px; /*===ROUNDED CORNER SETTINGS===*/
+	outline: 2px solid #fff;
+	box-shadow: 0px 0px 0px 0px #000000; /*===DROP SHADOW SETTINGS===*/
+}
+
+
+.vexmenuitem  {
+	background-color: #55FFFF;
+}
+
+.vex-content:hover {
+	border: 0px;
+}
+
+.vexmenuitem:hover {
+	color: #fff;	/*===MENU TEXT COLOR===*/
+	background-image: linear-gradient(30deg, #FF55FF, #FF55FF); 	/*===MENU BACKGROUND COLOR===*/
+}
+
+.vexmenuitem > a span {
+	color: #000000;	/*===MENU TEXT COLOR===*/
+	text-shadow: 0px 0px 0px #55FFFF;
+}
+
+.vexmenuitem:hover > a span {
+	color: #fff;	/*===MENU TEXT COLOR===*/
+	text-shadow: 0px 0px 0px #55FFFF;
+}
+/*===========================*/
+
+
+/*=======ORDER DETAILS=======*/
+.order-details {
+	border-top: 2px solid #55FFFF;
+	border-left: 2px solid #55FFFF;
+	border-right: 2px solid #55FFFF;
+}
+
+/*===========================*/
+
+
+/*===QR AND QR BACKGROUND===*/
+.invoice {
+	background-image: linear-gradient(#55FFFF, #55FFFF);	/*===MENU BACKGROUND COLOR===*/
+	border-radius: 2px; /*===ROUNDED CORNER SETTINGS===*/
+} 
+
+.payment-box {
+	height:425px; /*===SIZE IMPORTANT BECAUSE HEIGHT LIGHTNING QR CODE + OUTLINE===*/
+	background-image: linear-gradient(#000000, #000000);	/*===MENU BACKGROUND COLOR===*/
+	border-top: 0px solid #55FFFF;
+	border-left: 2px solid #55FFFF;
+	border-right: 2px solid #55FFFF;
+	border-bottom: 2px solid #55FFFF;
+	border-radius: 0 0 2 2;
+}
+
+.payment__scan {
+	width:276px;
+	height:276px;
+	margin-left:auto;	
+	margin-right:auto;
+	margin-bottom:5px;
+	margin-top:0px;
+	border: 0px solid #55FFFF; /*===QR CODE BORDER SIZE/COLOR (LEAVE AS IS FOR QUICK SCANNING)===*/
+	border-radius: 2px;
+}
+
+.recommended-fee {
+	margin-top:10px;
+	padding-top:3px;
+	height:25px;
+}
+
+.expired__body {
+    color: #55FFFF;
+}
+/*==========================*/
+
+/*======COLOR OF LINKS======*/
+a {
+	color: #636363 !important; 	/*===LINK COLOR===*/
+}
+
+a:hover {
+	color: #fff !important; 	/*===LINK COLOR===*/
+}
+/*==========================*/
+
+/*==="COLOR OF SOME TEXTS===*/
+span {
+	color:#fff; /*===TEXT COLOR===*/
+}
+
+
+.payment__currencies > span {
+	color: #fff; /*===TEXT HIGHLIGHT COLOR===*/
+	border:0px;
+}
+
+.payment__currencies:hover > span {
+	color: #fff; /*===TEXT HOVER HIGHLIGHT COLOR===*/
+	border:0px;
+}
+
+
+.payment__currencies > span {
+	color: #000000; /*===MENU HOVER HIGHLIGHT COLOR===*/
+}
+
+.timer-row__time-left {
+	color: #fff;
+}
+
+.timer-row__message > span {
+	color: #fff;
+}
+
+.single-item-order__right__btc-price  > span {
+	color:#fff;
+}
+
+.single-item-order__right__ex-rate  > span {
+	color:#fff;
+}
+
+.line-items__item__value {
+	color:#000;
+}
+
+.line-items__item__label {
+	color:#000;
+}
+
+.line-items__item__label > span {
+	color:#000;
+}
+
+.recommended-fee > span {
+	color:#fff;
+}
+
+.copyAmountText.copy-cursor._copySpan {
+	color:#55FFFF;
+}
+
+.copyAmountText.copy-cursor._copySpan > span {
+	color:#55FFFF;
+}
+
+.form-text.small.text-muted > span {
+	color:#FF55FF;
+}
+
+.powered__by__btcpayserver {
+	color: #55FFFF;
+}
+/*=========================*/
+
+/*=====LANGUAGE SELECT=====*/
+#prettydropdown-DefaultLang ul {
+	color: #000000; /*	===TEXT COLOR=== */
+	background-color: #55FFFF;	/*===BACKGROUND COLOR===*/
+	border: 0px;
+	border-radius: 2px;
+	box-shadow: 0px 0px 2px 0px #000000;	/*===OUTSIDE SHADOW===*/
+	font-family: 'Gilroy-Bold', sans-serif;
+}
+
+#prettydropdown-DefaultLang:hover ul {
+	color: #fff; /*	===TEXT COLOR=== */
+	background-color: #FF55FF;	/*===BACKGROUND COLOR===*/
+	border: 0px;
+	border-radius: 2px;
+	box-shadow: 0px 0px 2px 0px #000000;	/*===OUTSIDE SHADOW===*/
+	font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.checked: {
+	color:#55FFFF;
+}
+/*===========================*/
+
+/*====INSTRUCTIONAL TEXTS====*/
+.manual__step-one__header {
+    color: #55FFFF;	/*===TEXT COLOR===*/
+	opacity: 1;
+}
+.content-faded, .manual__step-one__instructions, .manual__step-two__instructions {
+    color: #55FFFF;	/*===TEXT COLOR===*/
+	opacity: 1;
+}
+
+.manual__step-two__instructions > span {
+    color: #55FFFF;	/*===TEXT COLOR===*/
+    	opacity:1;
+}
+/*===========================*/
+
+/*====COPY INFO BOX/TEXTS====*/
+.copyBox {
+	background-image: linear-gradient(30deg, #000000, #000000);
+	border: 2px solid #FF55FF;
+	border-radius: 2px;
+}
+
+.copyAmountText {
+	color: #FF55FF;	/*===TEXT COLOR===*/
+}
+
+.copySectionBox label {
+	color: #fff;	/*===TEXT COLOR===*/
+	opacity: 1;
+}
+
+.separatorGem {
+	background:#FF55FF;	/*===GEM ICON COLOR===*/
+}
+
+.copySectionBox.bottomBorder{
+	border-bottom: 2px solid #FF55FF;
+}
+/*===========================*/
+
+/*====PAYMENT SUCCES / EXPIRED PAGE====*/
+/*
+.success-block {
+	background-image: linear-gradient(to top, #20a9e0, #55FFFF); /*===GRADIENT BACKGROUND===*//*
+	height:275px;
+}
+*/
+.success-message {
+	color: #55FFFF;	/*	===TEXT COLOR=== */
+}
+
+.expired__body {
+	color: #55FFFF;	/*	===TEXT COLOR=== */  
+}
+/*===========================*/
+
+/*====FA ICONS====*/
+.fa.fa-angle-double-down{
+  Color:#55FFFF;
+  opacity: .75;
+  padding-bottom: 3px;
+}
+
+.fa-angle-double-up {
+	Color:#55FFFF;
+	opacity: .75;
+	padding-bottom: 3px;
+}
+
+
+/*===========================*/
+
+/*==============================CREDITS=============================*/
+/*	Custom BTCpay Server CSS template made by @artdesignbySF		*/
+/*	for Citadel21 at https://www.citadel21.com/						*/
+/*	and @ctdl21 on Twitter											*/
+/*============================END CREDITS===========================*/
+
+/*============================DISCLAIMER============================*/
+/*	Might not be the most efficient or correct way of implementing	*/
+/*	CSS. I am not responsable for breaking your website if things	*/
+/*	go wrong. PEACE / LOVE / BITCOIN								*/
+/*==========================END DISCLAIMER==========================*/
