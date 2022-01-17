@@ -6,7 +6,8 @@ has_children: false
 ---
 
 <span class="fs-10">💡 Various Designs</span><br>
-
+ ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+ <br>
 <br> <span class="fs-4">[Browse on github](https://github.com/bitpaint/logos){: .btn }</span> <br> <br>
 
 ---
