@@ -28,7 +28,7 @@ has_children: false
 <span class="fs-6">**Join our weekly Bitcoin meetups:**</span>
 <br>
  [😎 @RecklessVR - Saturday at 8PM EUROPE - 1PM CENTRAL](https://twitter.com/RecklessVR){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
- [🦘 @BTCVRDownunder - Wednesday at 1PM EUROPE - 9PM SYDNEY](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 }
+ [🦘 @BTCVRDownunder - Wednesday at 11AM EUROPE - 9PM SYDNEY](https://twitter.com/BTCVRDownunder){: .btn .fs-4 .mb-3 .mb-md-0 }
 
 
 ---
