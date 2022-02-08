@@ -19,7 +19,7 @@ function scrollToHash() {
   if (document.location.hash.match(/#[0-9.]+%/)) {
     var p = parseFloat(document.location.hash.substring(1));
     if (0 < p && p < 100 /*&& p%5 != 0*/) {
-      var content = document.getElementById("shash-<?php the_ID(); ?>")
+      var content = document.getElementById("shash")
       var y = findPos(content) + (content.offsetHeight)*p/100;
       window.scrollTo(0, y-16);
     }
@@ -43,7 +43,7 @@ function scrollToHash() {
       artificial.previousSibling.data += artificial.childNodes[0].data;
       artificial.parentNode.removeChild(artificial);
     }
-    var content = document.getElementById("shash-<?php the_ID(); ?>");
+    var content = document.getElementById("shash");
     recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
     if (begin!=null && end!=null) {
       // scroll to selection
@@ -110,7 +110,7 @@ document.onmousedown = document.onmouseup = function(e) {
         }
       }
 
-      var content = document.getElementById("shash-<?php the_ID(); ?>");
+      var content = document.getElementById("shash");
       recur(content.childNodes[content.childNodes[0].nodeType==3 ? 1 : 0]);
       if (begin[0]>0 && end[0]>0) {
         newhash = "selection-"+begin[0]+"."+begin[1]+"-"+end[0]+"."+end[1];

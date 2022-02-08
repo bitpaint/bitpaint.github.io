@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 📝 bitcoin.pdf
+title: bitcoin.pdf
 nav_order: 99
 has_children: false
 ---
