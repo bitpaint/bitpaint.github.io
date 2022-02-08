@@ -1,7 +1,6 @@
 ---
 title: Gource Tools
 parent: Gources
-has_children: false
 nav_order: 2
 ---
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
