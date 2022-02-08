@@ -19,7 +19,8 @@ has_children: true
 `Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre.
 Directories appear as branches with files as leaves.
 Developers can be seen working on the tree at the times they contributed to the project.`
-<br>
+
+<br><br>
 [gource.io](https://gource.io/){: .btn .fs-4 .mb-3 .mb-md-0 }  <br>
 [gource github repo](https://gource.io/){: .btn .fs-4 .mb-3 .mb-md-0 }  <br>
 
