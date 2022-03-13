@@ -13,7 +13,7 @@ has_children: false
 <br>
 
 
- <img src="/img/Time for Plan B.jpg" height="auto" width="600" style="border-radius:5%"><br><br>
+ <img src="/img/Time for Plan B.png" height="auto" width="600" style="border-radius:5%"><br><br>
 
  <img src="/img/The%20internet%20machine.jpeg" height="auto" width="600" style="border-radius:5%"><br><br>
 
