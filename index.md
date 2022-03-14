@@ -21,6 +21,17 @@ I'm **not** a developer,but i can create Bitcoin content like:
 
 
 
+
+<img src="/img/bmini.jpg" height="auto" width="45" style="border-radius:50%">  <span class="fs-8">Street art</span> <br>
+<span class="fs-4">Bitcoin street art</span><br><br>
+[💼 Portfolio](https://bitpaint.club/street-art/street-art.html){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
+<br>
+
+---
+
+
+
+
 <img src="/img/tinygif.gif" height="auto" width="45" style="border-radius:50%">  <span class="fs-8">Bitcoin gources</span> <br>
 <span class="fs-4">Visualization of Bitcoin devs activity made with Gource</span><br><br>
 [🌱 Youtube playlist](https://www.youtube.com/watch?v=1qRnSJIs6Dc&list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ){: .btn .fs-4 .mb-3 .mb-md-0 } <br>
