@@ -16,3 +16,7 @@ color_scheme: dark
 # Enable or disable the site search
 # Use this command to update index: bundle exec just-the-docs rake search:init
 search_enabled: true
+
+
+
+include: [".well-known"]
