@@ -3,7 +3,7 @@ layout: default
 title: 🏠 Home
 nav_order: 0
 ---
-[Twitter](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 }   [Instagram](https://www.instagram.com/bitpaint.club){: .btn .fs-4 .mb-3 .mb-md-0 }  [bitcoin.pdf](https://bitpaint.club/bitcoin.pdf){: .btn .fs-4 .mb-3 .mb-md-0 }       [🍺 Tip](https://btcpay.bitpaint.club/){: .btn .fs-4 .mb-3 .mb-md-0 }  
+[Twitter](https://twitter.com/bitpaintclub){: .btn .fs-4 .mb-3 .mb-md-0 } [bitcoin.pdf](https://bitpaint.club/bitcoin.pdf){: .btn .fs-4 .mb-3 .mb-md-0 } [🍺 Tip](https://mempool.ninja/address/1PAiNT1RvBq3hZf3M8Qj2ZQCcW7cvc4Njw){: .btn .fs-4 .mb-3 .mb-md-0 }  
 
 ---
 <img src="/img/animlight.gif" height="auto" width="45" style="border-radius:50%">  **<span class="fs-7">Bonjour, i'm bitpaint.</span><br>**
