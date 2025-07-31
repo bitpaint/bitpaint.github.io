@@ -1,2 +1,2 @@
 ## You can browse this github site here:
-https://bitpaint.club
+https://bitpaint.github.io
